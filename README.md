@@ -1,6 +1,6 @@
 ### Hi, I'm Janice 👋
 
-I'm an aspiring Software Engineer from New York. I am a mom working full time and a student at the Flatiron School. I have a background in Finance/Accounting and am highly detail oriented, analytical and organized. Over the past 9 years I've worked in industries ranging from healthcare, publishing, media and retail. I love to make and build things, which is why becoming a Full Stack Developer/Software Engineer is my dream job. My hobbies are yoga, photography, gardening and playing the Sims (if I have free time).
+I'm an aspiring Software Engineer/Full Stack Developer from New York. I work full time and am a student at Flatiron School. My background is in Finance/Accounting and I am a problem solver who is highly detail oriented and analytical. Over the past 9 years I've worked in industries ranging from healthcare, publishing, media and retail. I love learning new things and being able to express myself creatively by making or building things. My hobbies are yoga, photography, gardening and playing the Sims (if I have free time).
 
 
 - 🔭 I’m currently on Phase 4 at the Flatiron School
@@ -30,4 +30,5 @@ I'm an aspiring Software Engineer from New York. I am a mom working full time an
 - 📫 How to reach me: janice.chan1288@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I've been to Hawaii 4 times and I used to work for Disney.
+https://www.instagram.com/janice.codes/
 -->
