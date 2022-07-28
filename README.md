@@ -1,6 +1,6 @@
 ### Hi, I'm Janice 👋
 
-I'm an aspiring Software Engineer/Full Stack Developer from New York. I work full time and am a student at Flatiron School. My background is in Finance/Accounting and I am a problem solver who is highly detail oriented and analytical. Over the past 9 years I've worked in industries ranging from healthcare, publishing, media and retail. I love learning new things and being able to express myself creatively by making or building things. My hobbies are yoga, photography, gardening and playing the Sims (if I have free time).
+I'm an aspiring Software Engineer/Full Stack Developer from New York. I work full time and I'm a student at Flatiron School. My background is in Finance/Accounting and I am a problem solver who is highly detail oriented and analytical. Over the past 9 years I've worked in industries ranging from healthcare, publishing, media and retail. I love learning new things and being able to express myself creatively by making or building things. My hobbies are yoga, photography, gardening and playing the Sims (if I have free time).
 
 
 - 🔭 I’m currently on Phase 4 at the Flatiron School
@@ -9,7 +9,7 @@ I'm an aspiring Software Engineer/Full Stack Developer from New York. I work ful
 - 📫 How to reach me: janice.chan1288@gmail.com
 
 
-#### Skills:
+### Skills:
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -22,12 +22,13 @@ I'm an aspiring Software Engineer/Full Stack Developer from New York. I work ful
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;  
 </div>
 
-#### Blog Posts
+### Blog
 
 - [Guide to Javascript Iterators](https://medium.com/@janicecodes/guide-to-javascript-array-iterators-aa7d195fb8c4)
 - [React Fundamentals](https://medium.com/@janicecodes/react-fundamentals-in-5-minutes-e61d3adc860c)
 - [Ruby vs Javascript Basics](https://medium.com/@janicecodes/ruby-vs-javascript-basics-3aedeffae5d1)
 
+<br>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/janice-chan-swe/">
