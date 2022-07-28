@@ -30,6 +30,10 @@ I'm an aspiring Software Engineer/Full Stack Developer from New York. I work ful
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janice87)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/janice-chan-swe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,9 +42,6 @@ I'm an aspiring Software Engineer/Full Stack Developer from New York. I work ful
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
-
-
-
 
 
 
