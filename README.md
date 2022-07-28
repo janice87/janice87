@@ -13,7 +13,7 @@ I'm an aspiring Software Engineer from New York. I am a mom working full time an
  React | JavaScript | HTML | CSS | Material UI | Ruby | ActiveRecord | SQL | SQlite3 | Sinatra
 
 
-#### [Blog](https://medium.com/@janicecodes) 
+#### Blog
 
 - [Guide to Javascript Iterators](https://medium.com/@janicecodes/guide-to-javascript-array-iterators-aa7d195fb8c4)
 - [React Fundamentals](https://medium.com/@janicecodes/react-fundamentals-in-5-minutes-e61d3adc860c)
