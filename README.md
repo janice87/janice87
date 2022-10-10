@@ -3,8 +3,8 @@
 I'm an aspiring Software Engineer/Full Stack Developer from New York. I work full time and I'm a student at Flatiron School. My background is in Finance/Accounting and I am a problem solver who is highly detail oriented and analytical. Over the past 12 years I've worked in industries ranging from healthcare, publishing, media and retail. I love learning new things and being able to express myself creatively by making or building things. My hobbies are yoga, photography and gardening.
 
 
-- 🔭 I’m currently on Phase 4 at the Flatiron School
-- 🌱 I’m currently learning Rails
+- 🔭 I’m currently an alum of Flatiron School
+- 🌱 I’m currently studying Data Structures and Algorithms
 - ✨ Fun fact: I used to work for Disney and I've been to Hawaii 4 times. My dream would be to live there one day. 
 - 📫 How to reach me: janice.chan1288@gmail.com
 
