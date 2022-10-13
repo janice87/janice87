@@ -28,6 +28,9 @@ I'm an aspiring Software Engineer/Full Stack Developer from New York. I work ful
 - [Guide to Javascript Iterators](https://medium.com/@janicecodes/guide-to-javascript-array-iterators-aa7d195fb8c4)
 - [React Fundamentals](https://medium.com/@janicecodes/react-fundamentals-in-5-minutes-e61d3adc860c)
 - [Ruby vs Javascript Basics](https://medium.com/@janicecodes/ruby-vs-javascript-basics-3aedeffae5d1)
+- [Build Your Own API with Rails](https://blog.devops.dev/build-your-own-api-with-rails-b099085ff368)
+- [Object Orientation in Ruby](https://medium.com/@janicecodes/object-orientation-in-ruby-65b9064a8d18)
+- [Styling with Material UI](https://medium.com/@janicecodes/styling-with-material-ui-a264d761b2f3)
 
 
 <div id="badges">
