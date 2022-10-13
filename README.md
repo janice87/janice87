@@ -29,11 +29,6 @@ I'm an aspiring Software Engineer/Full Stack Developer from New York. I work ful
 - [React Fundamentals](https://medium.com/@janicecodes/react-fundamentals-in-5-minutes-e61d3adc860c)
 - [Ruby vs Javascript Basics](https://medium.com/@janicecodes/ruby-vs-javascript-basics-3aedeffae5d1)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janice87)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/janice-chan-swe/">
