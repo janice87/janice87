@@ -1,6 +1,6 @@
 ### Hi, I'm Janice 👋
 
-I'm a Full Stack Software Engineer from New York and an alum of Flatiron School. My background is in Finance/Accounting and I am a problem solver who is highly detail oriented and analytical. I've worked in industries ranging from healthcare, publishing, media and retail. I love learning new things and being able to express myself creatively by building things. My hobbies are yoga, photography and gardening.
+I'm a Software Engineer from New York and Flatiron School alum. My background is in Finance/Accounting and I enjoy solving complex problems with innovative solutions. I've worked in industries ranging from healthcare, publishing, media and retail. I love learning new things and being able to express myself creatively by building things. My hobbies are coding, yoga, photography and gardening.
 
 
 - 🔭 I’m currently an alum of Flatiron School
