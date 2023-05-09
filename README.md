@@ -5,8 +5,7 @@ I'm a Software Engineer from New York and Flatiron School alum. My background is
 
 - 🔭 I’m currently an alum of Flatiron School
 - 🌱 I’m currently studying Data Structures and Algorithms
-- ✨ Fun fact: I used to work for Disney and I've been to Hawaii 4 times. My dream would be to live there one day!
-- 📫 How to reach me: janice.chan1288@gmail.com
+- ✨ Fun fact: I've been to Hawaii 4 times and my dream would be to live there one day!
 
 
 ### Skills:
@@ -34,9 +33,6 @@ I'm a Software Engineer from New York and Flatiron School alum. My background is
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/janice-chan-swe/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://medium.com/@janicecodes">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
